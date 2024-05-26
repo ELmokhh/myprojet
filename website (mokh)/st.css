@@ -1,0 +1,26 @@
+body
+{
+	background-color: rgb(230, 230, 230);
+	
+	background-image: 10;
+}
+h1
+{
+	font-family: revert-layer;
+	font-size: 5;
+}
+p
+{
+  font-family: revert-layer;
+  font-size: 5;
+}
+h2
+{
+	font-family: revert-layer;
+	font-size: 1;
+}
+h3
+{
+	font-stretch: revert;
+
+}
